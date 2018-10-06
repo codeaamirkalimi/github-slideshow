@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to the new Slide"
 ---
-Your text
+Here you can write your own text notes.
 use the left arrow to go back
